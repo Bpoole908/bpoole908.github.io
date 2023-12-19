@@ -11,3 +11,4 @@ Plan for GAANN Fellowship Spring 2023
     - I plan on helping to develope and refine existing class materials such as labs and programming assignments 
 - Prepare for proposal
 - Resubmit survey paper to [Cell Press: Patterns](https://www.cell.com/patterns/home)
+    - This paper was previously submitted to ACM Computing Surveys but was rejected after revisions sadly.
