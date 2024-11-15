@@ -7,4 +7,4 @@ file_document_path: files/cv.pdf
 redirect_from:
   - /resume
 ---
-<object data="/files/cv-2.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="/files/cv.pdf" width="1000" height="1000" type='application/pdf'></object>
